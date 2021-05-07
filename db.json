@@ -1,7 +1,7 @@
 {
     "pocs": [
         {
-            "pocId": 1,
+            "id": 1,
             "accountName": "Citi Bank",
             "pocName": "Citi POC 1",
             "pocAmount": 50000,
