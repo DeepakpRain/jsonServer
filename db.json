@@ -15,7 +15,7 @@
             "pocEndDate": "10/02/2021"
         },
         {
-            "pocId": 2,
+            "id": 2,
             "accountName": "Citi Bank",
             "pocName": "Citi POC 1",
             "pocAmount": 50000,
@@ -29,7 +29,7 @@
             "pocEndDate": "10/02/2021"
         },
         {
-            "pocId": 3,
+            "id": 3,
             "accountName": "Citi Bank",
             "pocName": "Citi POC 1",
             "pocAmount": 50000,
@@ -43,7 +43,7 @@
             "pocEndDate": "10/02/2021"
         },
         {
-            "pocId": 4,
+            "id": 4,
             "accountName": "Citi Bank",
             "pocName": "Citi POC 1",
             "pocAmount": 50000,
@@ -57,7 +57,7 @@
             "pocEndDate": "10/02/2021"
         },
         {
-            "pocId": 5,
+            "id": 5,
             "accountName": "Citi Bank",
             "pocName": "Citi POC 1",
             "pocAmount": 50000,
